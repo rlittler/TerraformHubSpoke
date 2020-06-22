@@ -381,7 +381,7 @@ resource "azurerm_windows_virtual_machine" "BASTION-VM" {
   network_interface_ids = [azurerm_network_interface.BASTION-VM-NIC.id]
 
   os_disk {
-    name                 = "OSDisk01"
+    name                 = "Bastion-OSDisk01"
     caching              = "ReadWrite"
     storage_account_type = "Standard_LRS"
   }
@@ -448,7 +448,7 @@ resource "azurerm_windows_virtual_machine" "DC-VM" {
   network_interface_ids = [azurerm_network_interface.DC-VM-NIC.id]
 
   os_disk {
-    name                 = "DC-Disk01"
+    name                 = "DC-OsDisk01"
     caching              = "ReadWrite"
     storage_account_type = "Standard_LRS"
   }
