@@ -14,3 +14,5 @@
 >> Have to run template twice, Because resource deployments time out if GW takes over 30 mins to provision. 
 
 https://imgur.com/ZesK9pA
+
+![alt text](https://github.com/rlittler/TerraFormHubSpoke/blob/master/HubAndSpokeTF.png?raw=true)
