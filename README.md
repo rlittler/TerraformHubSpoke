@@ -13,4 +13,4 @@
 
 >> Have to run template twice, Because resource deployments time out if GW takes over 30 mins to provision. 
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/IVMhbWD"  ><a href="//imgur.com/a/IVMhbWD"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+https://imgur.com/ZesK9pA
